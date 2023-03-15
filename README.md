@@ -1,1 +1,1 @@
-# University-project
+# Algoritms labs
